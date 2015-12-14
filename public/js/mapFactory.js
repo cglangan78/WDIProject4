@@ -8,7 +8,7 @@
  
 		//map factory
 		function maps($http){
-			var apiUrl = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDRxCNJRLIGry1B2oUx6Qs2F8zyKVj5lHY&callback=googleMap"
+			var apiUrl = "https://maps.googleapis.com/maps/api/js?key=&callback=googleMap"
 			console.log(apiUrl)	
 
 			var maps = {}
